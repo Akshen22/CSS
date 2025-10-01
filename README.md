@@ -162,6 +162,8 @@ cd Beginner-to-Advance-CSS-Notes
 
 Open the `https://bigbinary-academy.neetocode.com/` site in your browser to start coding!
 
+Contact: akshendhami@gmail.com, https://www.linkedin.com/in/akshen-dhami22
+
 ## 🛡️ License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
